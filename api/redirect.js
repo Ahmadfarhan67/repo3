@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://www.mafee.at/product-page/nikolaussackerl-nikolauss%C3%A4ckchen-weihnachtsbeutel";
+    const whitePageURL = "https://toyscentral.dk/products/neca-coraline-prop-replica-10-coraline-doll";
     const blackPageURL = "https://nowherehe.lovable.app/";
 
     //testing
@@ -27,4 +27,5 @@ export default function handler(req, res) {
   
     res.end();
   }
+
 
